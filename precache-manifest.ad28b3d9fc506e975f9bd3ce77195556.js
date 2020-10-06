@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48a81cebe39b9c7d92abbab3cb34cab8",
+    "revision": "1b0f75d273e6ef0cf3eb3b94e97ee35d",
     "url": "/btcn01-ptudwnc/index.html"
   },
   {
-    "revision": "b533c9c779433e7a640a",
-    "url": "/btcn01-ptudwnc/static/css/main.5f361e03.chunk.css"
+    "revision": "3d3b27e80a5ac2e6ceca",
+    "url": "/btcn01-ptudwnc/static/css/main.f0a0856b.chunk.css"
   },
   {
-    "revision": "3bce6c4fb451e9df3fdb",
-    "url": "/btcn01-ptudwnc/static/js/2.882341a6.chunk.js"
+    "revision": "8e58acf41e4fff78a35b",
+    "url": "/btcn01-ptudwnc/static/js/2.2eb8039e.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/btcn01-ptudwnc/static/js/2.882341a6.chunk.js.LICENSE.txt"
+    "url": "/btcn01-ptudwnc/static/js/2.2eb8039e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b533c9c779433e7a640a",
-    "url": "/btcn01-ptudwnc/static/js/main.3b841e29.chunk.js"
+    "revision": "3d3b27e80a5ac2e6ceca",
+    "url": "/btcn01-ptudwnc/static/js/main.1066394d.chunk.js"
   },
   {
     "revision": "a10108e9cdf0e69dfc87",
